@@ -23,7 +23,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ### Links
 
-- Live Site URL: [Live Server](https://your-live-site-url.com)
+- Live Site URL: [Live Server](https://stats-preview-card-component-jlah47.netlify.app/)
 
 ## My process
 
